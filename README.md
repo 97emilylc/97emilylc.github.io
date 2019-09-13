@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+Python Repo is [here](https://github.com/97emilylc/97emilylc.github.io/blob/master/Actors%20and%20Movies.ipynb)
+R Repo is [here](https://github.com/97emilylc/97emilylc.github.io/blob/master/R%20-%20Actors%20and%20Movies.ipynb)
+
 You can use the [editor on GitHub](https://github.com/97emilylc/97emilylc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
