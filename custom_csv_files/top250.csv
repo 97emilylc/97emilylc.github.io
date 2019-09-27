@@ -1,8 +1,251 @@
-I,D
-T,i,t,l,e
-Y,e,a,r
-S,t,a,r,1
-S,t,a,r,2
-S,t,a,r,3
-S,t,a,r,4
-S,t,a,r,5
+,ID,Title,Year,Star1,Star2,Star3,Star4,Star5
+0,0111161,The Shawshank Redemption,1994,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,Clancy Brown
+1,0068646,The Godfather,1972,Marlon Brando,Al Pacino,James Caan,Richard S. Castellano,Robert Duvall
+2,0071562,The Godfather: Part II,1974,Al Pacino,Robert Duvall,Diane Keaton,Robert De Niro,John Cazale
+3,0468569,The Dark Knight,2008,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,Maggie Gyllenhaal
+4,0050083,12 Angry Men,1957,Martin Balsam,John Fiedler,Lee J. Cobb,E.G. Marshall,Jack Klugman
+5,0108052,Schindler's List,1993,Liam Neeson,Ben Kingsley,Ralph Fiennes,Caroline Goodall,Jonathan Sagall
+6,0167260,The Lord of the Rings: The Return of the King,2003,Noel Appleby,Ali Astin,Sean Astin,David Aston,John Bach
+7,0110912,Pulp Fiction,1994,Tim Roth,Amanda Plummer,Laura Lovelace,John Travolta,Samuel L. Jackson
+8,0060196,"The Good, the Bad and the Ugly",1966,Eli Wallach,Clint Eastwood,Lee Van Cleef,Aldo Giuffrè,Luigi Pistilli
+9,0137523,Fight Club,1999,Edward Norton,Brad Pitt,Meat Loaf,Zach Grenier,Richmond Arquette
+10,0120737,The Lord of the Rings: The Fellowship of the Ring,2001,Alan Howard,Noel Appleby,Sean Astin,Sala Baker,Sean Bean
+11,0109830,Forrest Gump,1994,Tom Hanks,Rebecca Williams,Sally Field,Michael Conner Humphreys,Harold G. Herthum
+12,1375666,Inception,2010,Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page,Tom Hardy,Ken Watanabe
+13,0080684,Star Wars: Episode V - The Empire Strikes Back,1980,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,Anthony Daniels
+14,0167261,The Lord of the Rings: The Two Towers,2002,Bruce Allpress,Sean Astin,John Bach,Sala Baker,Cate Blanchett
+15,0133093,The Matrix,1999,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving,Gloria Foster
+16,0073486,One Flew Over the Cuckoo's Nest,1975,Jack Nicholson,Louise Fletcher,Will Sampson,Michael Berryman,Alonzo Brown
+17,0099685,Goodfellas,1990,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,Paul Sorvino
+18,0047478,Seven Samurai,1954,Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki,Kamatari Fujiwara
+19,0114369,Se7en,1995,Morgan Freeman,Andrew Kevin Walker,Daniel Zacapa,Brad Pitt,Gwyneth Paltrow
+20,0317248,City of God,2002,Alexandre Rodrigues,Leandro Firmino,Phellipe Haagensen,Douglas Silva,Jonathan Haagensen
+21,0118799,Life Is Beautiful,1997,Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Giustino Durano,Sergio Bini Bustric
+22,0102926,The Silence of the Lambs,1991,Jodie Foster,Lawrence A. Bonney,Kasi Lemmons,Lawrence T. Wrentz,Scott Glenn
+23,0076759,Star Wars: Episode IV - A New Hope,1977,Mark Hamill,Harrison Ford,Carrie Fisher,Peter Cushing,Alec Guinness
+24,0038650,It's a Wonderful Life,1946,James Stewart,Donna Reed,Lionel Barrymore,Thomas Mitchell,Henry Travers
+25,0120815,Saving Private Ryan,1998,Tom Hanks,Tom Sizemore,Edward Burns,Barry Pepper,Adam Goldberg
+26,0245429,Spirited Away,2001,Rumi Hiiragi,Miyu Irino,Mari Natsuki,Takashi Naitô,Yasuko Sawaguchi
+27,0120689,The Green Mile,1999,Tom Hanks,David Morse,Bonnie Hunt,Michael Clarke Duncan,James Cromwell
+28,0110413,Léon: The Professional,1994,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,Peter Appel
+29,0056058,Harakiri,1962,Tatsuya Nakadai,Akira Ishihama,Shima Iwashita,Tetsurô Tanba,Masao Mishima
+30,0816692,Interstellar,2014,Ellen Burstyn,Matthew McConaughey,Mackenzie Foy,John Lithgow,Timothée Chalamet
+31,0114814,The Usual Suspects,1995,Stephen Baldwin,Gabriel Byrne,Benicio Del Toro,Kevin Pollak,Kevin Spacey
+32,0110357,The Lion King,1994,Rowan Atkinson,Matthew Broderick,Niketa Calame-Harris,Jim Cummings,Whoopi Goldberg
+33,0120586,American History X,1998,Edward Norton,Edward Furlong,Beverly D'Angelo,Jennifer Lien,Ethan Suplee
+34,0088763,Back to the Future,1985,Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover,Thomas F. Wilson
+35,0253474,The Pianist,2002,Adrien Brody,Emilia Fox,Michal Zebrowski,Ed Stoppard,Maureen Lipman
+36,0027977,Modern Times,1936,Charles Chaplin,Paulette Goddard,Henry Bergman,Tiny Sandford,Chester Conklin
+37,0103064,Terminator 2: Judgment Day,1991,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,Earl Boen
+38,1675434,The Intouchables,2011,François Cluzet,Omar Sy,Anne Le Ny,Audrey Fleurot,Joséphine de Meaux
+39,0054215,Psycho,1960,Anthony Perkins,Vera Miles,John Gavin,Janet Leigh,Martin Balsam
+40,0172495,Gladiator,2000,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed,Richard Harris
+41,0021749,City Lights,1931,Virginia Cherrill,Florence Lee,Harry Myers,Al Ernest Garcia,Hank Mann
+42,0407887,The Departed,2006,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg,Martin Sheen
+43,2582802,Whiplash,2014,Miles Teller,J.K. Simmons,Paul Reiser,Melissa Benoist,Austin Stowell
+44,4154796,Avengers: Endgame,2019,Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth,Scarlett Johansson
+45,0064116,Once Upon a Time in the West,1968,Claudia Cardinale,Henry Fonda,Jason Robards,Charles Bronson,Gabriele Ferzetti
+46,0482571,The Prestige,2006,Hugh Jackman,Christian Bale,Michael Caine,Piper Perabo,Rebecca Hall
+47,0034583,Casablanca,1942,Humphrey Bogart,Ingrid Bergman,Paul Henreid,Claude Rains,Conrad Veidt
+48,0095327,Grave of the Fireflies,1988,Tsutomu Tatsumi,Ayano Shiraishi,Yoshiko Shinohara,Akemi Yamaguchi,Tadashi Nakamura
+49,0047396,Rear Window,1954,James Stewart,Grace Kelly,Wendell Corey,Thelma Ritter,Raymond Burr
+50,0095765,Cinema Paradiso,1988,Antonella Attili,Enzo Cannavale,Isa Danieli,Leo Gullotta,Marco Leonardi
+51,0082971,Raiders of the Lost Ark,1981,Harrison Ford,Karen Allen,Paul Freeman,Ronald Lacey,John Rhys-Davies
+52,0078748,Alien,1979,Tom Skerritt,Sigourney Weaver,Veronica Cartwright,Harry Dean Stanton,John Hurt
+53,0209144,Memento,2000,Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Mark Boone Junior,Russ Fega
+54,0078788,Apocalypse Now,1979,Marlon Brando,Martin Sheen,Robert Duvall,Frederic Forrest,Sam Bottoms
+55,0032553,The Great Dictator,1940,Charles Chaplin,Jack Oakie,Reginald Gardiner,Henry Daniell,Billy Gilbert
+56,0405094,The Lives of Others,2006,Martina Gedeck,Ulrich Mühe,Sebastian Koch,Ulrich Tukur,Thomas Thieme
+57,4154756,Avengers: Infinity War,2018,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans,Scarlett Johansson
+58,1853728,Django Unchained,2012,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Kerry Washington,Samuel L. Jackson
+59,4633694,Spider-Man: Into the Spider-Verse,2018,Shameik Moore,Jake Johnson,Hailee Steinfeld,Mahershala Ali,Brian Tyree Henry
+60,0081505,The Shining,1980,Kirk Douglas,Ralph Meeker,Adolphe Menjou,George Macready,Wayne Morris
+61,0050825,Paths of Glory,1957,Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers,Barry Nelson
+62,0910970,WALL·E,2008,Ben Burtt,Elissa Knight,Jeff Garlin,Fred Willard,MacInTalk
+63,0043014,Sunset Blvd.,1950,William Holden,Gloria Swanson,Erich von Stroheim,Nancy Olson,Fred Clark
+64,0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Peter Sellers,George C. Scott,Sterling Hayden,Keenan Wynn,Slim Pickens
+65,0119698,Princess Mononoke,1997,Billy Crudup,Billy Bob Thornton,Minnie Driver,John DiMaggio,Claire Danes
+66,0364569,Oldboy,2003,Min-sik Choi,Ji-tae Yu,Hye-jeong Kang,Dae-han Ji,Dal-su Oh
+67,0051201,Witness for the Prosecution,1957,Tyrone Power,Marlene Dietrich,Charles Laughton,Elsa Lanchester,John Williams
+68,1345836,The Dark Knight Rises,2012,Christian Bale,Gary Oldman,Tom Hardy,Joseph Gordon-Levitt,Anne Hathaway
+69,0087843,Once Upon a Time in America,1984,Robert De Niro,James Woods,Elizabeth McGovern,Treat Williams,Tuesday Weld
+70,0090605,Aliens,1986,Sigourney Weaver,Carrie Henn,Michael Biehn,Paul Reiser,Lance Henriksen
+71,0169547,American Beauty,1999,Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley,Mena Suvari
+72,2380307,Coco,2017,Anthony Gonzalez,Gael García Bernal,Benjamin Bratt,Alanna Ubach,Renee Victor
+73,5311514,Your Name.,2016,Ryûnosuke Kamiki,Mone Kamishiraishi,Ryô Narita,Aoi Yûki,Nobunaga Shimazaki
+74,0112573,Braveheart,1995,James Robinson,Sean Lawlor,Sandy Nelson,James Cosmo,Sean McGinley
+75,6751668,Parasite,2019,Kang-ho Song,Sun-kyun Lee,Yeo-jeong Jo,Woo-sik Choi,Hye-jin Jang
+76,0082096,Das Boot,1981,Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch,Martin Semmelrogge
+77,1187043,3 Idiots,2009,Aamir Khan,Madhavan,Sharman Joshi,Kareena Kapoor,Boman Irani
+78,0986264,Like Stars on Earth,2007,Darsheel Safary,Aamir Khan,Tisca Chopra,Vipin Sharma,Sachet Engineer
+79,0086190,Star Wars: Episode VI - Return of the Jedi,1983,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,Anthony Daniels
+80,0114709,Toy Story,1995,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,Wallace Shawn
+81,0105236,Reservoir Dogs,1992,Harvey Keitel,Tim Roth,Michael Madsen,Chris Penn,Steve Buscemi
+82,0086879,Amadeus,1984,F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Roy Dotrice,Simon Callow
+83,5074352,Dangal,2016,Aamir Khan,Fatima Sana Shaikh,Sanya Malhotra,Sakshi Tanwar,Aparshakti Khurana
+84,0022100,M,1931,Peter Lorre,Ellen Widmann,Inge Landgut,Otto Wernicke,Theodor Loos
+85,0119217,Good Will Hunting,1997,Matt Damon,Ben Affleck,Stellan Skarsgård,John Mighton,Rachel Majorowski
+86,0180093,Requiem for a Dream,2000,Ellen Burstyn,Jared Leto,Jennifer Connelly,Marlon Wayans,Christopher McDonald
+87,0361748,Inglourious Basterds,2009,Brad Pitt,Mélanie Laurent,Christoph Waltz,Eli Roth,Michael Fassbender
+88,0052357,Vertigo,1958,James Stewart,Kim Novak,Barbara Bel Geddes,Tom Helmore,Henry Jones
+89,0062622,2001: A Space Odyssey,1968,Keir Dullea,Gary Lockwood,William Sylvester,Daniel Richter,Leonard Rossiter
+90,0338013,Eternal Sunshine of the Spotless Mind,2004,Jim Carrey,Kate Winslet,Gerry Robert Byrne,Elijah Wood,Thomas Jay Ryan
+91,0033467,Citizen Kane,1941,Joseph Cotten,Dorothy Comingore,Agnes Moorehead,Ruth Warrick,Ray Collins
+92,0093058,Full Metal Jacket,1987,Matthew Modine,Adam Baldwin,Vincent D'Onofrio,R. Lee Ermey,Dorian Harewood
+93,2106476,The Hunt,2012,Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp,Lasse Fogelstrøm,Susse Wold
+94,0053125,North by Northwest,1959,Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis,Leo G. Carroll
+95,0066921,A Clockwork Orange,1971,Malcolm McDowell,Patrick Magee,Michael Bates,Warren Clarke,John Clive
+96,0208092,Snatch,2000,Benicio Del Toro,Dennis Farina,Vinnie Jones,Brad Pitt,Rade Serbedzija
+97,0211915,Amélie,2001,Audrey Tautou,Mathieu Kassovitz,Rufus,Lorella Cravotta,Serge Merlin
+98,0012349,The Kid,1921,Carl Miller,Edna Purviance,Jackie Coogan,Charles Chaplin,Albert Austin
+99,0040522,Bicycle Thieves,1948,Lamberto Maggiorani,Enzo Staiola,Lianella Carell,Elena Altieri,Gino Saltamerenda
+100,0086250,Scarface,1983,Al Pacino,Steven Bauer,Michelle Pfeiffer,Mary Elizabeth Mastrantonio,Robert Loggia
+101,0056172,Lawrence of Arabia,1962,Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins,Omar Sharif
+102,0045152,Singin' in the Rain,1952,Gene Kelly,Donald O'Connor,Debbie Reynolds,Jean Hagen,Millard Mitchell
+103,0435761,Toy Story 3,2010,Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty,Don Rickles
+104,0075314,Taxi Driver,1976,Diahnne Abbott,Robinson Frank Adu,Victor Argo,Gino Ardito,Garth Avery
+105,0070735,The Sting,1973,Paul Newman,Robert Redford,Robert Shaw,Charles Durning,Ray Walston
+106,0017136,Metropolis,1927,Alfred Abel,Gustav Fröhlich,Rudolf Klein-Rogge,Fritz Rasp,Theodor Loos
+107,0059578,For a Few Dollars More,1965,Clint Eastwood,Lee Van Cleef,Gian Maria Volontè,Mario Brega,Luigi Pistilli
+108,0036775,Double Indemnity,1944,Fred MacMurray,Barbara Stanwyck,Edward G. Robinson,Porter Hall,Jean Heather
+109,1832382,A Separation,2011,Payman Maadi,Leila Hatami,Sareh Bayat,Shahab Hosseini,Sarina Farhadi
+110,0044741,Ikiru,1952,Takashi Shimura,Shin'ichi Himori,Haruo Tanaka,Minoru Chiaki,Miki Odagiri
+111,0056592,To Kill a Mockingbird,1962,Gregory Peck,John Megna,Frank Overton,Rosemary Murphy,Ruth White
+112,0097576,Indiana Jones and the Last Crusade,1989,Harrison Ford,Sean Connery,Denholm Elliott,Alison Doody,John Rhys-Davies
+113,0053604,The Apartment,1960,Jack Lemmon,Shirley MacLaine,Fred MacMurray,Ray Walston,Jack Kruschen
+114,3417422,Drishyam,2013,Mohanlal,Meena,Ansiba,Esther Anil,Kalabhavan Shajohn
+115,1049413,Up,2009,Edward Asner,Christopher Plummer,Jordan Nagai,Bob Peterson,Delroy Lindo
+116,0119488,L.A. Confidential,1997,Kevin Spacey,Russell Crowe,Guy Pearce,James Cromwell,Kim Basinger
+117,8267604,Capernaum,2018,Zain Al Rafeea,Yordanos Shiferaw,Boluwatife Treasure Bankole,Kawsar Al Haddad,Fadi Yousef
+118,0071853,Monty Python and the Holy Grail,1975,Graham Chapman,John Cleese,Eric Idle,Terry Gilliam,Terry Jones
+119,1255953,Incendies,2010,Mustafa Kamel,Hussein Sami,Rémy Girard,Mélissa Désormeaux-Poulin,Maxim Gaudette
+120,0113277,Heat,1995,Al Pacino,Robert De Niro,Val Kilmer,Jon Voight,Tom Sizemore
+121,0042876,Rashomon,1950,Toshirô Mifune,Machiko Kyô,Masayuki Mori,Takashi Shimura,Minoru Chiaki
+122,0055630,Yojimbo,1961,Toshirô Mifune,Tatsuya Nakadai,Yôko Tsukasa,Isuzu Yamada,Daisuke Katô
+123,0372784,Batman Begins,2005,Christian Bale,Michael Caine,Liam Neeson,Katie Holmes,Gary Oldman
+124,0095016,Die Hard,1988,Bruce Willis,Bonnie Bedelia,Reginald VelJohnson,Paul Gleason,William Atherton
+125,6966692,Green Book,2018,Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris,Jaimz Woolvett
+126,0105695,Unforgiven,1992,Viggo Mortensen,Mahershala Ali,Linda Cardellini,Sebastian Maniscalco,Dimiter D. Marinov
+127,0363163,Downfall,2004,Bruno Ganz,Alexandra Maria Lara,Corinna Harfouch,Ulrich Matthes,Juliane Köhler
+128,0118849,Children of Heaven,1997,Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi,Nafise Jafar-Mohammadi,Fereshte Sarabandi
+129,0053291,Some Like It Hot,1959,Marilyn Monroe,Tony Curtis,Jack Lemmon,George Raft,Pat O'Brien
+130,0347149,Howl's Moving Castle,2004,Chieko Baishô,Takuya Kimura,Akihiro Miwa,Tatsuya Gashûin,Ryûnosuke Kamiki
+131,0057115,The Great Escape,1963,Steve McQueen,James Garner,Richard Attenborough,James Donald,Charles Bronson
+132,0096283,My Neighbor Totoro,1988,Noriko Hidaka,Chika Sakamoto,Shigesato Itoi,Sumi Shimamoto,Tanie Kitabayashi
+133,0089881,Ran,1985,Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,Daisuke Ryû,Mieko Harada
+134,0042192,All About Eve,1950,Bette Davis,Anne Baxter,George Sanders,Celeste Holm,Gary Merrill
+135,0268978,A Beautiful Mind,2001,Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer,Paul Bettany
+136,0457430,Pan's Labyrinth,2006,Ivana Baquero,Sergi López,Maribel Verdú,Doug Jones,Ariadna Gil
+137,0091251,Come and See,1985,Robert De Niro,Sharon Stone,Joe Pesci,James Woods,Don Rickles
+138,0112641,Casino,1995,Aleksey Kravchenko,Olga Mironova,Liubomiras Laucevicius,Vladas Bagdonas,Jüri Lumiste
+139,1305806,The Secret in Their Eyes,2009,Soledad Villamil,Ricardo Darín,Carla Quevedo,Pablo Rago,Javier Godino
+140,0120735,"Lock, Stock and Two Smoking Barrels",1998,Jason Flemyng,Dexter Fletcher,Nick Moran,Jason Statham,Steven Mackintosh
+141,0081398,Raging Bull,1980,Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent,Nicholas Colasanto
+142,0476735,My Father and My Son,2005,Çetin Tekindor,Fikret Kuskan,Hümeyra,Ege Tanman,Serif Sezer
+143,0040897,The Treasure of the Sierra Madre,1948,Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett,Barton MacLane
+144,0993846,The Wolf of Wall Street,2013,Leonardo DiCaprio,Jonah Hill,Margot Robbie,Matthew McConaughey,Kyle Chandler
+145,0055031,Judgment at Nuremberg,1961,Spencer Tracy,Burt Lancaster,Richard Widmark,Marlene Dietrich,Maximilian Schell
+146,5027774,"Three Billboards Outside Ebbing, Missouri",2017,Frances McDormand,Caleb Landry Jones,Kerry Condon,Sam Rockwell,Alejandro Barrios
+147,0071315,Chinatown,1974,Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez,John Hillerman
+148,0015864,The Gold Rush,1925,Charles Chaplin,Mack Swain,Tom Murray,Henry Bergman,Malcolm Waite
+149,2096673,Inside Out,2015,Amy Poehler,Phyllis Smith,Richard Kind,Bill Hader,Lewis Black
+150,0046912,Dial M for Murder,1954,Ray Milland,Grace Kelly,Robert Cummings,John Williams,Anthony Dawson
+151,0434409,V for Vendetta,2005,Natalie Portman,Hugo Weaving,Stephen Rea,Stephen Fry,John Hurt
+152,0469494,There Will Be Blood,2007,Daniel Day-Lewis,Martin Stringer,Matthew Braden Stringer,Jacob Stringer,Joseph Mussey
+153,0050976,The Seventh Seal,1957,Gunnar Björnstrand,Bengt Ekerot,Nils Poppe,Max von Sydow,Bibi Andersson
+154,1291584,Warrior,2011,Joel Edgerton,Tom Hardy,Nick Nolte,Jennifer Morrison,Frank Grillo
+155,3170832,Room,2015,Brie Larson,Jacob Tremblay,Sean Bridgers,Wendy Crewson,Sandy McMaster
+156,0117951,Trainspotting,1996,Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Kevin McKidd,Robert Carlyle
+157,0477348,No Country for Old Men,2007,Tommy Lee Jones,Javier Bardem,Josh Brolin,Woody Harrelson,Kelly Macdonald
+158,8108198,Andhadhun,2018,Ayushmann Khurrana,Tabu,Radhika Apte,Anil Dhawan,Manav Vij
+159,0080678,The Elephant Man,1980,Anthony Hopkins,John Hurt,Anne Bancroft,John Gielgud,Wendy Hiller
+160,0167404,The Sixth Sense,1999,Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams,Trevor Morgan
+161,1130884,Shutter Island,2010,Leonardo DiCaprio,Mark Ruffalo,Ben Kingsley,Max von Sydow,Michelle Williams
+162,0084787,The Thing,1982,Kurt Russell,Wilford Brimley,T.K. Carter,David Clennon,Keith David
+163,0050212,The Bridge on the River Kwai,1957,William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa,James Donald
+164,0031381,Gone with the Wind,1939,Thomas Mitchell,Barbara O'Neil,Vivien Leigh,Evelyn Keyes,Ann Rutherford
+165,0116231,The Bandit,1996,Sener Sen,Ugur Yücel,Sermin Hürmeriç,Yesim Salkim,Kamran Usluer
+166,0041959,The Third Man,1949,Joseph Cotten,Alida Valli,Orson Welles,Trevor Howard,Bernard Lee
+167,0047296,On the Waterfront,1954,Marlon Brando,Karl Malden,Lee J. Cobb,Rod Steiger,Pat Henning
+168,0083658,Blade Runner,1982,Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,M. Emmet Walsh
+169,0050986,Wild Strawberries,1957,Victor Sjöström,Bibi Andersson,Ingrid Thulin,Gunnar Björnstrand,Jullan Kindahl
+170,0107290,Jurassic Park,1993,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,Bob Peck
+171,0266543,Finding Nemo,2003,Albert Brooks,Ellen DeGeneres,Alexander Gould,Willem Dafoe,Brad Garrett
+172,1205489,Gran Torino,2008,Clint Eastwood,Christopher Carley,Bee Vang,Ahney Her,Brian Haley
+173,0116282,Fargo,1996,William H. Macy,Steve Buscemi,Peter Stormare,Kristin Rudrüd,Harve Presnell
+174,0266697,Kill Bill: Vol. 1,2003,Uma Thurman,Lucy Liu,Vivica A. Fox,Daryl Hannah,David Carradine
+175,0077416,The Deer Hunter,1978,Robert De Niro,John Cazale,John Savage,Christopher Walken,Meryl Streep
+176,0046438,Tokyo Story,1953,Chishû Ryû,Chieko Higashiyama,Setsuko Hara,Haruko Sugimura,Sô Yamamura
+177,0118715,The Big Lebowski,1998,Jeff Bridges,John Goodman,Julianne Moore,Steve Buscemi,David Huddleston
+178,0079944,Stalker,1979,Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn,Nikolay Grinko,Natalya Abramova
+179,0120382,The Truman Show,1998,Jim Carrey,Laura Linney,Noah Emmerich,Natascha McElhone,Holland Taylor
+180,3011894,Wild Tales,2014,Darío Grandinetti,María Marull,Mónica Villa,Diego Starosta,Marcelo Frasca
+181,0978762,Mary and Max,2009,Christopher Massey,Oliver Marks,Daisy Kocher,Daniel Marks,Hamish Hughes
+182,2119532,Hacksaw Ridge,2016,Andrew Garfield,Richard Pyros,Jacob Warner,Milo Gibson,Darcy Bryce
+183,2267998,Gone Girl,2014,Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry,Carrie Coon
+184,0107207,In the Name of the Father,1993,Alison Crosbie,Daniel Day-Lewis,Philip King,Emma Thompson,Nye Heron
+185,0015324,Sherlock Jr.,1924,Buster Keaton,Kathryn McGuire,Joe Keaton,Erwin Connelly,Ward Crane
+186,0017925,The General,1926,Marion Mack,Glen Cavender,Jim Farley,Frederick Vroom,Charles Henry Smith
+187,0892769,How to Train Your Dragon,2010,Jay Baruchel,Gerard Butler,Craig Ferguson,America Ferrera,Jonah Hill
+188,0031679,Mr. Smith Goes to Washington,1939,Jean Arthur,James Stewart,Claude Rains,Edward Arnold,Guy Kibbee
+189,0040725,The Red Shoes,1948,Marius Goring,Jean Short,Gordon Littmann,Julia Lang,Bill Shine
+190,2278388,The Grand Budapest Hotel,2014,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody,Willem Dafoe
+191,0353969,Memories of Murder,2003,Kang-ho Song,Sang-kyung Kim,Roe-ha Kim,Jae-ho Song,Hee-Bong Byun
+192,0060827,Persona,1966,Bibi Andersson,Liv Ullmann,Margaretha Krook,Gunnar Björnstrand,Jörgen Lindström
+193,0112471,Before Sunrise,1995,Ethan Hawke,Julie Delpy,Andrea Eckert,Hanno Pöschl,Karl Bruckschwaiger
+194,0264464,Catch Me If You Can,2002,Leonardo DiCaprio,Tom Hanks,Christopher Walken,Martin Sheen,Nathalie Baye
+195,0758758,Into the Wild,2007,Emile Hirsch,Marcia Gay Harden,William Hurt,Jena Malone,Brian H. Dierker
+196,0046268,The Wages of Fear,1953,Paul Newman,George Kennedy,J.D. Cannon,Lou Antonio,Robert Drivas
+197,0061512,Cool Hand Luke,1967,Yves Montand,Charles Vanel,Folco Lulli,Peter van Eyck,Véra Clouzot
+198,2024544,12 Years a Slave,2013,Chiwetel Ejiofor,Dwight Henry,Dickie Gravois,Bryan Batt,Ashley Dyke
+199,0074958,Network,1976,Faye Dunaway,William Holden,Peter Finch,Robert Duvall,Wesley Addy
+200,1392214,Prisoners,2013,Hugh Jackman,Jake Gyllenhaal,Viola Davis,Maria Bello,Terrence Howard
+201,0079470,Monty Python's Life of Brian,1979,Graham Chapman,John Cleese,Terry Gilliam,Eric Idle,Terry Jones
+202,0019254,The Passion of Joan of Arc,1928,Aamir Khan,Siddharth,Sharman Joshi,Kunal Kapoor,Atul Kulkarni
+203,0405508,Rang De Basanti,2006,Maria Falconetti,Eugene Silvain,André Berley,Maurice Schutz,Antonin Artaud
+204,0092005,Stand by Me,1986,Wil Wheaton,River Phoenix,Corey Feldman,Jerry O'Connell,Kiefer Sutherland
+205,0060107,Andrei Rublev,1966,Tom Hardy,Charlize Theron,Nicholas Hoult,Hugh Keays-Byrne,Josh Helman
+206,1392190,Mad Max: Fury Road,2015,Anatoliy Solonitsyn,Ivan Lapikov,Nikolay Grinko,Nikolay Sergeev,Irina Tarkovskaya
+207,0091763,Platoon,1986,Tom Berenger,Keith David,Willem Dafoe,Forest Whitaker,Francesco Quinn
+208,1979320,Rush,2013,Chris Hemsworth,Daniel Brühl,Olivia Wilde,Alexandra Maria Lara,Pierfrancesco Favino
+209,0405159,Million Dollar Baby,2004,Clint Eastwood,Hilary Swank,Morgan Freeman,Jay Baruchel,Mike Colter
+210,1028532,Hachi: A Dog's Tale,2009,Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa,Sarah Roemer,Jason Alexander
+211,3315342,Logan,2017,Hugh Jackman,Patrick Stewart,Dafne Keen,Boyd Holbrook,Stephen Merchant
+212,0052618,Ben-Hur,1959,Charlton Heston,Jack Hawkins,Haya Harareet,Stephen Boyd,Hugh Griffith
+213,0072684,Barry Lyndon,1975,Ryan O'Neal,Marisa Berenson,Patrick Magee,Hardy Krüger,Steven Berkoff
+214,0395169,Hotel Rwanda,2004,Xolani Mali,Don Cheadle,Desmond Dube,Hakeem Kae-Kazim,Tony Kgoroge
+215,0245712,Amores Perros,2000,Emilio Echevarría,Gael García Bernal,Goya Toledo,Álvaro Guerrero,Vanessa Bauche
+216,0087544,Nausicaä of the Valley of the Wind,1984,Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda,Gorô Naya,Ichirô Nagai
+217,1895587,Spotlight,2015,Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber,John Slattery
+218,1201607,Harry Potter and the Deathly Hallows: Part 2,2011,Ralph Fiennes,Michael Gambon,Alan Rickman,Daniel Radcliffe,Rupert Grint
+219,0053198,The 400 Blows,1959,Jean-Pierre Léaud,Claire Maurier,Albert Rémy,Guy Decomble,Georges Flamant
+220,0097165,Dead Poets Society,1989,Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles,Gale Hansen
+221,0032976,Rebecca,1940,Laurence Olivier,Joan Fontaine,George Sanders,Judith Anderson,Nigel Bruce
+222,0075148,Rocky,1976,Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers,Burgess Meredith
+223,1954470,Gangs of Wasseypur,2012,Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui,Tigmanshu Dhulia,Jameel Khan
+224,0198781,"Monsters, Inc.",2001,John Goodman,Billy Crystal,Mary Gibbs,Steve Buscemi,James Coburn
+225,0025316,It Happened One Night,1934,Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns,Jameson Thomas
+226,0169102,Lagaan: Once Upon a Time in India,2001,Aamir Khan,Gracy Singh,Rachel Shelley,Paul Blackthorne,Suhasini Mulay
+227,0113247,La Haine,1995,Vincent Cassel,Hubert Koundé,Saïd Taghmaoui,Abdel Ahmed Ghili,Solo
+228,4016934,The Handmaiden,2016,Min-hee Kim,Tae-ri Kim,Jung-woo Ha,Jin-woong Cho,Hae-sook Kim
+229,0374887,Munna Bhai M.B.B.S.,2003,Sanjay Dutt,Arshad Warsi,Gracy Singh,Sunil Dutt,Boman Irani
+230,0093779,The Princess Bride,1987,Cary Elwes,Mandy Patinkin,Chris Sarandon,Christopher Guest,Wallace Shawn
+231,0056732,The Exterminating Angel,1962,Silvia Pinal,Jacqueline Andere,José Baviera,Augusto Benedico,Luis Beristáin
+232,2338151,PK,2014,Aamir Khan,Anushka Sharma,Saurabh Shukla,Sanjay Dutt,Boman Irani
+233,0367110,Swades,2004,Shah Rukh Khan,Gayatri Joshi,Kishori Ballal,Smit Sheth,Lekh Tandon
+234,0064115,Butch Cassidy and the Sundance Kid,1969,Paul Newman,Robert Redford,Katharine Ross,Strother Martin,Henry Jones
+235,1454029,The Help,2011,Emma Stone,Viola Davis,Bryce Dallas Howard,Octavia Spencer,Jessica Chastain
+236,0381681,Before Sunset,2004,Ethan Hawke,Julie Delpy,Vernon Dobtcheff,Louise Lemoine Torrès,Rodolphe Pauly
+237,4430212,Drishyam,2015,Tom Hanks,Tim Allen,Annie Potts,Tony Hale,Keegan-Michael Key
+238,0094625,Akira,1988,Ajay Devgn,Shriya Saran,Tabu,Rajat Kapoor,Ishita Dutta
+239,0088247,The Terminator,1984,Mitsuo Iwata,Nozomu Sasaki,Mami Koyama,Tesshô Genda,Hiroshi Ôtake
+240,1979376,Toy Story 4,2019,Arnold Schwarzenegger,Michael Biehn,Linda Hamilton,Paul Winfield,Lance Henriksen
+241,0087884,"Paris, Texas",1984,Harry Dean Stanton,Nastassja Kinski,Dean Stockwell,Aurore Clément,Hunter Carson
+242,0118694,In the Mood for Love,2000,Maggie Cheung,Tony Chiu-Wai Leung,Ping Lam Siu,Tung Cho 'Joe' Cheung,Rebecca Pan
+243,2015381,Guardians of the Galaxy,2014,Chris Pratt,Zoe Saldana,Dave Bautista,Vin Diesel,Bradley Cooper
+244,0338564,Infernal Affairs,2002,Andy Lau,Tony Chiu-Wai Leung,Anthony Chau-Sang Wong,Eric Tsang,Kelly Chen
+245,0058946,The Battle of Algiers,1966,Jean Martin,Yacef Saadi,Brahim Hadjadj,Tommaso Neri,Samia Kerbash
+246,0103639,Aladdin,1992,Scott Weinger,Robin Williams,Linda Larkin,Jonathan Freeman,Frank Welker
+247,1280558,A Wednesday,2008,Anupam Kher,Naseeruddin Shah,Jimmy Sheirgill,Deepal Shaw,Aamir Bashir
+248,0120731,The Legend of 1900,1998,Tim Roth,Pruitt Taylor Vince,Mélanie Thierry,Bill Nunn,Clarence Williams III
+249,2758880,Winter Sleep,2014,Haluk Bilginer,Melisa Sözen,Demet Akbag,Ayberk Pekcan,Serhat Mustafa Kiliç
