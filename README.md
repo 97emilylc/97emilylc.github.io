@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Emily Christiansen's Data Science Portfolio
 
 Python Repo is [here](https://github.com/97emilylc/97emilylc.github.io/blob/master/Actors%20and%20Movies.ipynb)
 R Repo is [here](https://github.com/97emilylc/97emilylc.github.io/blob/master/R%20-%20Actors%20and%20Movies.ipynb)
 
-You can use the [editor on GitHub](https://github.com/97emilylc/97emilylc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Data
+As an avid film nerd, I was overjoyed when I discovered the the popular website, The Internet Movie Database (IMDb) has massive TSV files available [here](https://www.imdb.com/interfaces/). I descided to see what I can do with this data and the skills I have picked up at UC Berkeley's Data Science courses. 
 
-### Markdown
+Thankfully, there is a third party Python developer that created a rather nice interface to fetch the IMDb data and store them as Movie object, People objects, and similiar structures. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
