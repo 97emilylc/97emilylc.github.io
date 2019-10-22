@@ -1,100 +1,101 @@
-﻿,The Empire Strikes Back,Space,NA,
-2,9 to 5,"800 W 6th Street, Los Angeles, CA",United States,
-3,Stir Crazy,"Prison, Florence, Arizona",United States,
-4,Airplane!,"Los Angeles, Chicago",United States,
-5,Any Which Way You Can,,NA,
-6,Private Benjamin,Belgum,Belgium,
-7,Coal Miner's Daughter,"Butcher Hollow, Kentucky",United States,
-8,Smokey and the Bandit II,"Dallas, Texas",United States,
-9,The Blue Lagoon,Fiji,Fiji,
-10,The Blues Brothers,Chicago,United States,
-11,Ordinary People,"Lake Forest, Illinois",United States,
-12,Popeye,Malta,Italy,
-13,Urban Cowboy,"Pasadena, Texas",United States,
-14,The Shining,"333 E Wonderview Ave, Estes Park, CO 80517",United States,
-15,Seems Like Old Times,Los Angeles,United States,
-16,Cheech & Chong's Next Movie,Hollywood,United States,
-17,Caddyshack,"Boca Raton, Florida",United States,
-18,Friday the 13th (1980),"Cunningham County, New Jersey",United States,
-19,Brubaker,Arkansas,United States,
-20,Little Darlings,"Atlanta, Georgia",United States,
-21,Dressed to Kill,New York City,United States,
-22,The Jazz Singer,New York City/Los Angeles,United States,
-23,Flash Gordon,Space,NA,
-24,Lady and the Tramp (Re-issue) (1980),Missouri,United States,
-25,The Elephant Man,London,United Kingdom,
-26,Bronco Billy,"Boise, Idaho",United States,
-27,Raging Bull,New York,United States,
-28,Xanadu,Fantasy,NA,
-29,American Gigolo,Los Angeles,United States,
-30,My Bodyguard,Chicago,United States,
-31,The Fog,"Goleta, California",United States,
-32,Fame (1980),New York City,United States,
-33,Tess,Thomas Hardy's Wessex,United Kingdom,Yes
-34,Altered States,"Harvard, MA",United States,
-35,Song of the South (Re-issue) (1980),Georgia,United States,
-36,Cruising,New York City,United States,
-37,The Octagon,,NA,
-38,The Aristocats (Re-issue) (1980),Paris,France,
-39,Honeysuckle Rose,"Dripping Springs, Texas",United States,
-40,Herbie Goes Bananas,Rio de Janeiro,Brazil,
-41,Rough Cut,,NA,
-42,The Final Countdown,Hawaii,United States,
-43,The Hunter,Los Angeles,United States,
-44,Hero at Large,New York City,United States,
-45,The Long Riders,Monument Valley,United States,yes
-46,The Island (1980),Caribbean,Puerto Rico,
-47,Close Encounters of the Third Kind (Special Edition),"Devil's Tower, Wyoming",United States,
-48,First Family,Washington DC,United States,
-49,Prom Night,"Toronto, Canada",Canada,
-50,The Nude Bomb,"Salt Lake City, Utah",United States,
-51,"Oh, God! Book II",NA,NA,
-52,The Competition,Chicago,United States,
-53,Wholly Moses,Israel,Israel,Yes
-54,Mary Poppins (re-issue),London,United Kingdom,
-55,Last Married Couple in America,Los Angeles,United States,
-56,Used Cars,Phoenix,United States,
-58,The Mirror Crack'd,United Kingdom,United Kingdom,Yes
-57,The Last Flight of Noah's Ark,Pacific Ocean,NA,
-59,The Fiendish Plot of Dr. Fu Manchu,London,United Kingdom,
-60,Stardust Memories,New Jersey,United States,
-61,The Hollywood Knights,Beverly Hills,United States,
-62,Serial,Marin County,United States,
-63,Somewhere in Time,Chicago,United States,Yes
-65,Tribute,New York City,United States,
-64,Saturn 3,Space,NA,
-66,The Formula,Berlin,Germany,
-67,Mad Max,Australia,Australia,
-68,The Big Brawl,chicago,United States,yes
-69,The Awakening,United Kingdom,United Kingdom,
-70,Fatso,NA,NA,
-72,How to Become a Detective,NA,NA,
-71,How to Beat the High Cost of Living,NA,NA,
-73,Foxes,Los Angeles,United States,
-74,The Big Red One,Israel,Israel,yes
-75,The Stunt Man,Los Angeles,United States,
-76,Where the Buffalo Roam,NA,NA,
-77,The Gong Show Movie,Na,NA,
-78,Motel Hell,"Culver City, CA",United States,
-79,Little Miss Marker,Na,NA,
-80,"Oh, Heavenly Dog!",London,United Kingdom,
-81,Divine Madness,"Pasadena, CA",United States,
-82,In God We Trust,Hollywood,United States,
-83,He Knows You're Alone,"Staten Island, NY",United States,
-84,Coast to Coast,New York State,United States,
-85,Willie & Phil,New York City,United States,
-86,Melvin and Howard,Utah,United States,
-87,Roadie,Travelling,NA,
-88,Gloria,South Bronx,United States,
-89,Jaws 2 (1980 re-issue),"Long Island, NY",United States,
-90,Kagemusha,Japan,Japan,Yes
-91,Resurrection,Texas,United States,
-92,Hide in Plain Sight,Buffalo NY,United States,
-93,Guyana: Cult of the Damned,Mexico,Mexico,
-94,When Time Ran Out,Pacific Ocean,NA,
-95,Heaven's Gate,Wyoming,United States,
-96,Ffolkes,Pacific Ocean,NA,
-97,Midnight Madness,Los Angeles,United States,
-98,Loving Couples,Acapulco,Mexico,
-99,The Idolmaker,na,NA,
-100,The Black Marble,Los Angeles,United States,
+﻿Title,Setting,US State
+The Empire Strikes Back,Space,NA
+9 to 5,"800 W 6th Street, Los Angeles, CA",California
+Stir Crazy,"Prison, Florence, Arizona",Arizona
+Airplane!,"Los Angeles, Chicago",Illinois
+Any Which Way You Can,,NA
+Private Benjamin,Belgum,NA
+Coal Miner's Daughter,"Butcher Hollow, Kentucky",Kentucky
+Smokey and the Bandit II,"Dallas, Texas",Texas
+The Blue Lagoon,Fiji,NA
+The Blues Brothers,Chicago,Illinois
+Ordinary People,"Lake Forest, Illinois",Illinois
+Popeye,Malta,NA
+Urban Cowboy,"Pasadena, Texas",Texas
+The Shining,"333 E Wonderview Ave, Estes Park, CO 80517",Colorado
+Seems Like Old Times,Los Angeles,California
+Cheech & Chong's Next Movie,Hollywood,California
+Caddyshack,"Boca Raton, Florida",Florida
+Friday the 13th (1980),"Cunningham County, New Jersey",New Jersey
+Brubaker,Arkansas,Arkansas
+Little Darlings,"Atlanta, Georgia",Georgia
+Dressed to Kill,New York City,New York
+The Jazz Singer,New York City/Los Angeles,California
+Flash Gordon,Space,NA
+Lady and the Tramp (Re-issue) (1980),Missouri,Missouri
+The Elephant Man,London,NA
+Bronco Billy,"Boise, Idaho",Idaho
+Raging Bull,New York,New York
+Xanadu,Fantasy,NA
+American Gigolo,Los Angeles,California
+My Bodyguard,Chicago,Illinois
+The Fog,"Goleta, California",California
+Fame (1980),New York City,New York
+Tess,Thomas Hardy's Wessex,NA
+Altered States,"Harvard, MA",Massachusets
+Song of the South (Re-issue) (1980),Georgia,Georgia
+Cruising,New York City,New York
+The Octagon,,NA
+The Aristocats (Re-issue) (1980),Paris,NA
+Honeysuckle Rose,"Dripping Springs, Texas",Texas
+Herbie Goes Bananas,Rio de Janeiro,NA
+Rough Cut,,NA
+The Final Countdown,Hawaii,Hawaii
+The Hunter,Los Angeles,California
+Hero at Large,New York City,New York
+The Long Riders,Monument Valley,Utah
+The Island (1980),Caribbean,NA
+Close Encounters of the Third Kind (Special Edition),"Devil's Tower, Wyoming",Wyoming
+First Family,Washington DC,Maryland
+Prom Night,"Toronto, Canada",NA
+The Nude Bomb,"Salt Lake City, Utah",Utah
+"Oh, God! Book II",NA,NA
+The Competition,Chicago,Illinois
+Wholly Moses,Israel,NA
+Mary Poppins (re-issue),London,NA
+Last Married Couple in America,Los Angeles,California
+Used Cars,Phoenix,Arizona
+The Mirror Crack'd,St. Mary Mead,NA
+The Last Flight of Noah's Ark,Pacific Ocean,NA
+The Fiendish Plot of Dr. Fu Manchu,London,NA
+Stardust Memories,New Jersey,New Jersey
+The Hollywood Knights,Beverly Hills,California
+Serial,Marin County,California
+Somewhere in Time,Chicago,Illinois
+Tribute,New York City,New York
+Saturn 3,Space,NA
+The Formula,Berlin,NA
+Mad Max,Australia,NA
+The Big Brawl,chicago,Illinois
+The Awakening,England,NA
+Fatso,NA,NA
+How to Become a Detective,NA,NA
+How to Beat the High Cost of Living,NA,NA
+Foxes,Los Angeles,California
+The Big Red One,Israel,NA
+The Stunt Man,Los Angeles,California
+Where the Buffalo Roam,NA,NA
+The Gong Show Movie,Na,NA
+Motel Hell,"Culver City, CA",California
+Little Miss Marker,Na,NA
+"Oh, Heavenly Dog!",London,NA
+Divine Madness,"Pasadena, CA",California
+In God We Trust,Hollywood,California
+He Knows You're Alone,"Staten Island, NY",New York
+Coast to Coast,New York State,New York
+Willie & Phil,New York City,New York
+Melvin and Howard,Utah,Utah
+Roadie,Travelling,NA
+Gloria,South Bronx,New York
+Jaws 2 (1980 re-issue),"Long Island, NY",New York
+Kagemusha,Japan,NA
+Resurrection,Texas,Texas
+Hide in Plain Sight,Buffalo NY,New York
+Guyana: Cult of the Damned,Mexico,NA
+When Time Ran Out,Pacific Ocean,NA
+Heaven's Gate,Wyoming,Wyoming
+Ffolkes,Pacific Ocean,NA
+Midnight Madness,Los Angeles,California
+Loving Couples,Acapulco,NA
+The Idolmaker,na,NA
+The Black Marble,Los Angeles,California
