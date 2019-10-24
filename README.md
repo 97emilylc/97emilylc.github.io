@@ -1,4 +1,5 @@
-# Emily Christiansen's Portfolio
+# Welcome!
+I am a Senior at UC Berkeley studying Applied Mathematics with a focus on Data Science. I would like to use this website to showcase the skills and tools I have learned as an Undergraduate as well as showcase my own personal projects. 
 
 ## Usage
 
