@@ -5,13 +5,13 @@ My resume can be found [here.](resume.pdf)
 
 ## Film Settings by Year Project
 
-To use the Dinky theme:
+**Question:** Over the years, how has the setting of popular films changed overtime, specifically in regard to global climates?
+I have been taking the top 100 highest grossing *domestic* films by year since 1980 to 2018 and searching for the main setting of the film. Note: *not* where the movie was filmed but rather were the majority of the story takes place. If the setting was some place fictional, space based, or otherwise not able to be generalize to a single country or state, that film was disregarded. 
 
-1. Add the following to your site's `_config.yml`:
+So far I have only completed the book end years of 1980 and 2018 as a proof of concept, thier maps are shown below. 
 
-    ```yml
-    theme: jekyll-theme-dinky
-    ```
+![1980 World Map](1980 World Plot.png)
+![2018 World Map](2018 World Plot.png)
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
