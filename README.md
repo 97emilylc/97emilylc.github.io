@@ -1,6 +1,4 @@
-# The Dinky theme
-
-![Thumbnail of Dinky](thumbnail.png)
+# Emily Christiansen's Portfolio
 
 ## Usage
 
