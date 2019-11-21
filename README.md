@@ -10,8 +10,8 @@ I have been taking the top 100 highest grossing *domestic* films by year since 1
 
 So far I have only completed the book end years of 1980 and 2018 as a proof of concept, thier maps are shown below. 
 
-![1980 World Map](1980 World Plot.png)
-![2018 World Map](2018 World Plot.png)
+![1980 World Map](world_1980.png)
+![2018 World Map](world_2018.png)
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
