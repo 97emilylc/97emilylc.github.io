@@ -1,5 +1,5 @@
 # Welcome!
-I am a Senior at UC Berkeley studying Applied Mathematics with a focus on Data Science. I would like to use this website to showcase the skills and tools I have learned as an Undergraduate as well as showcase my own personal projects. 
+I am a first year Masters student at USC studying Applied Data Science. I would like to use this website to showcase the skills and tools I have learned as well as display coding samples and projects. 
 
 My resume can be found [here.](resume.pdf)
 
